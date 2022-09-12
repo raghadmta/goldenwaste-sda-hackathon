@@ -1,11 +1,11 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "registry.hub.docker.com/goraghad/goldenwaste-sda-hackathon"
+      "Name": "registry.hub.docker.com/goraghad/goldenwaste-sda-hackathon:latest"
     },
     "Ports": [
       {
-        "ContainerPort": 80
+        "ContainerPort": 8080
       }
     ]
   }
