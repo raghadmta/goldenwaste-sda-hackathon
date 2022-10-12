@@ -10,28 +10,6 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
   <img src = "https://github.com/chandradeoarya/goldenwaste-sda-hackathon/blob/master/goldenwaste.gif?raw=true" width=600>
 </p>
 
-### Contributors
 
-#### Developers
-- 
-- 
-
-#### Team1-ElasticBeanstalk
-- 
-- 
-
-#### Team2-EC2withVPC
-- 
-- 
-
-#### Team3-Kubernetes
-- 
-- 
-
-#### Team4-DockerCompose and swarm
-- 
-- 
-
-#### Team5-Docker and docker swarm
-- 
-- 
+---
+###### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022
